@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(92, 129, 251);
+    font-family: 'Manrope', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 15pt;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.357);
+}
+
+div {
+    text-align: center;
+}
+
+div#msg-1 {
+    font-size: 30pt;
+    text-align: center;
+    margin-top: 15px;
+}
+
+div#msg-2 {
+    font-size: 15pt;
+    margin-top: 5px;
+}
+
+div#photo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 13pt;
+    font-family: 'Manrope', sans-serif;
+}
